@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Brandon Herrera, I'm a Senior at NYU and I'm double majoring in Computer Science and Psychology. I intend to pursue
+a career in building software and would love to some time down the line find a career that can incorporate the two.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm from Miami, Florida and I love Artichoke Pizza.
 
