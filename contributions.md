@@ -20,6 +20,6 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | link to my contribution    | course website    |   I fixed a broken link.    |
+|  2   | https://github.com/nyu-ossd-s19/carlyabraham-weekly/issues/1    | course wiki    |   I reported an issue (incorrect link to blog).    |
 |     |     |     |      |
 |     |     |     |      |
