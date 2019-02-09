@@ -22,4 +22,4 @@ Replace the first row with your contribution.
 |---|:---|:---|:---| 
 |  2   | https://github.com/nyu-ossd-s19/carlyabraham-weekly/issues/1    | course wiki    |   I reported an issue (incorrect link to blog).    |
 |  2   | https://github.com/nyu-ossd-s19/asunwoo98-weekly/issues/1    |  course wiki   |  I reported an issue (incorrect link to blog).    |
-|     |     |     |      |
+|  2   | https://github.com/nyu-ossd-s19/andreawaxman-weekly/issues/1    |  course wiki   |  I reported an issue (incorrect link to blog and broken links).    |
