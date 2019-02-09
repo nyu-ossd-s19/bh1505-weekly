@@ -48,7 +48,7 @@ url: "https://nyu-ossd-s18.github.io/bh1505-weekly/"
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/bh1505-weekly"
+baseurl: "/bh1505-weekly/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
