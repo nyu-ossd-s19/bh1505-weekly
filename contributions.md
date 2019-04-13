@@ -20,6 +20,7 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---|
+|  9   | <https://en.wikipedia.org/wiki/Special:Contributions/Branh612>   | Wikipedia edit    |   I edited the Inter Miami CF article.    |
 |  9   | <https://en.wikipedia.org/wiki/Special:Contributions/Branh612>   | Wikipedia edit    |   I added an image to the Miami Dolphins article.    |
 |  7   | <https://github.com/joannakl/ossd_s19/pull/6>   | Course Website    |   I submitted a pull request for a typo.    |
 |  3   | <https://github.com/nyu-ossd-s19/email-detector-team-12/issues/13>   | Documentation    |   I reported an issue (missing Code of Conduct).    |
